@@ -5,6 +5,6 @@
 	<title>Squawk Designs</title>
 </head>
 <body>
- 
+ <p>Welcome to Squawk Designs</p>
 </body>
 </html>
