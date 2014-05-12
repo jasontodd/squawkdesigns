@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Squawk Designs -- Home</title>
+    <title>Squawk Designs -- Blog</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400, 700italic|Wendy+One&effect=shadow-multiple' rel='stylesheet' type='text/css'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
