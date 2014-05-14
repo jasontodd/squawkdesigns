@@ -9,7 +9,7 @@
 		      <span class="icon-bar"></span>
 		      <span class="icon-bar"></span>
 		    </button>
-		    <a href="index.php"><img src="images/misc/sdesign_logo.png" alt="logo for squawkdesigns" class="img-responsive"></a>
+		    <a id="branding"  href="index.php"><img src="images/misc/sdesign_logo.png" alt="logo for squawkdesigns" class="img-responsive"></a>
 		  </div>
 		  <!-- Collect the nav links, forms, and other content for toggling -->
 		  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">  
