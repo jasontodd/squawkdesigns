@@ -1,15 +1,21 @@
 //my colors
-@red: 				#BA83D4;
-@magenta: 		#FDF5E3;
-@beige: 			#FDF5E3;
-@yellow:			#FDAD22;
+
 @purple:			#475C98;
-@darkblue: 		#586E75;
-@pink:				#D33682;
+@blue: #3399CC;
+
+
 
 @headlineFontFamily: 'Wendy One', sans-serif;
 @copyFontFamily:	'Source Sans Pro', sans-serif;
 
+@import "variables.less";
+@import "mixins.less";
+@navbar-inverse-bg: #3399CC;
+
+//inverse bar
+@navbar-inverse-link-color: #fff;
+
+@navbar-inverse-border:fff;
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,8 +26,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-	padding-top: 70px; 
+	padding-top: 124px; 
+	background: url(/images/misc/flock.png) no-repeat center top fixed; 
 }
+
+
 
 p {
 	font-family: @copyFontFamily;
@@ -34,11 +43,20 @@ p {
 #branding {
 	img {
 		margin: 10px 0 5px 25px;
-		max-width: 288px;
+		max-width: 360px;
 			@media(max-width: 767px) {
 				margin: 10px 0 5px 10px;
 				width: 90%;
 			}
 	}
+}
+
+.navbar-inverse {
+  #gradient > .vertical(@start-color: @navbar-inverse-bg; @end-color: transparent);
+  .reset-filter(); // Remove gradient in IE<10 to fix bug where dropdowns don't get triggered
+  .navbar-brand,
+  .navbar-nav > li > a {
+    text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+  }
 }
 

@@ -11,7 +11,7 @@
     
     <section class="container">
       <div class="content row">
-        
+        <?php include "_/components/php/header.php"; ?>
         <section class="main col col-md-9">
 
         </section><!-- main -->
