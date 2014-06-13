@@ -1,2 +1,2 @@
-
+$(function(){$("ul.nav li.dropdown").hover(function(){$(".dropdown-menu",this).fadeIn()},function(){$(".dropdown-menu",this).fadeOut("fast")})}),$(function(){$(window).scroll(function(){$("#branding").hide("slow")})}),$(document).ready(function(){alert("This page is loaded")});
 //# sourceMappingURL=./myscript.map
