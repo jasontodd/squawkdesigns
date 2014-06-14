@@ -23,7 +23,7 @@
 									c-2.536-1.218-6.358-7.021-7.925-9.145c-12.908-12.056-23.057-23.21-31.703-39.629c1.28,0.75,2.376,1.687,3.658,2.437
 									C363.667,184.774,362.232,180.804,359.01,176.108z"/>
 								<text transform="matrix(1 0 0 1 142.1782 263.3271)" fill="#9643D4" font-family="'Cinzel-Bold'" font-size="53.6286" letter-spacing="2">Designs</text>
-								<text transform="matrix(1 0 0 1 140.3296 227.6064)" fill="#FFFFFF" font-family="'Cinzel-Decorative'" font-size="52.1825">Squawk</text>
+								<text transform="matrix(1 0 0 1 140.3296 227.6064)" fill="#FFFFFF" font-family="'Cinzel Decorative'" font-size="52.1825">Squawk</text>
 								</svg></a>
 
 <!-- 		    	<img src="images/misc/sdesign_logo.png" alt="logo for squawkdesigns" class="img-responsive"></a>
