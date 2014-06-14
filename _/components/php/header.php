@@ -22,7 +22,7 @@
 									c-1.227-0.591-3.063,0.062-4.269-0.61c-0.838-0.467-0.511-1.93-1.22-2.438c-0.534-0.384-1.837,0.289-2.439,0
 									c-2.536-1.218-6.358-7.021-7.925-9.145c-12.908-12.056-23.057-23.21-31.703-39.629c1.28,0.75,2.376,1.687,3.658,2.437
 									C363.667,184.774,362.232,180.804,359.01,176.108z"/>
-								<text transform="matrix(1 0 0 1 142.1782 263.3271)" fill="#9643D4" font-family="'Cinzel 700'" font-size="53.6286" letter-spacing="2">Designs</text>
+								<text transform="matrix(1 0 0 1 142.1782 263.3271)" fill="#9643D4" font-family="'Cinzel'" font-weight="'700'"font-size="53.6286" letter-spacing="2">Designs</text>
 								<text transform="matrix(1 0 0 1 140.3296 227.6064)" fill="#FFFFFF" font-family="'Cinzel Decorative'" font-size="52.1825">Squawk</text>
 								</svg></a>
 
